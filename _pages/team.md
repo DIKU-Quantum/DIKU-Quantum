@@ -8,7 +8,6 @@ permalink: /team/
 
 # Group Members
 
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -73,7 +72,7 @@ permalink: /team/
 
 
 
-## Master and Bachelor Students
+<!-- ## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -85,7 +84,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> 
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -124,9 +123,9 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
-
+<!--
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -189,3 +188,5 @@ permalink: /team/
 
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+
+-->
