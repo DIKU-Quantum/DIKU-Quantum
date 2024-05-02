@@ -8,4 +8,4 @@ permalink: /research/
 
 # Research
 
-Updating soon
+Updating soon ...
