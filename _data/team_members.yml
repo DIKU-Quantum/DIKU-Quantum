@@ -18,12 +18,11 @@
   education2: 
 
 - name: Jonas Vinther
-  photo: bio-photo.jpg
+  photo: JonasVinther.png
   info: PhD Student
   email: jonas.vinther@di.ku.dk
   number_educ: 2
-  education1: 
-  education2: 
+  education1: MSc in Physics, University of Copenhagen
 
 - name: Lasse Bjørn Kristensen
   photo: bio-photo.jpg
