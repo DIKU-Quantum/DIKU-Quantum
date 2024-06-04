@@ -10,12 +10,12 @@
   education5: 
 
 - name: Sebastian Bugge Loeschcke
-  photo: bio-photo.jpg
-  info: PhD Student
-  email: sbl@di.ku.dk
+  photo: SebastianLoeschcke.jpg
+  info: PhD Student, [personal page](https://sebulo.github.io/)
+  email: sebastianloeschcke@gmail.com
   number_educ: 2
-  education1: 
-  education2: 
+  education1: MSc in Computer Science, Aarhus University
+  education2: BSc in Computer Science, Aarhus University
 
 - name: Jonas Vinther
   photo: JonasVinther.png
