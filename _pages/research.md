@@ -12,10 +12,6 @@ permalink: /research/
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci porta non pulvinar neque laoreet. Lacus sed turpis tincidunt id.
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" width="25%">
-</figure>
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci porta non pulvinar neque laoreet. Lacus sed turpis tincidunt id.
 
 ### Differential equations
