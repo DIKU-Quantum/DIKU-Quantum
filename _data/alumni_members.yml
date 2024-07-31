@@ -1,0 +1,5 @@
+- name: test
+  photo: rock.jpg
+  email: test
+  number_educ: 1
+  education1:
