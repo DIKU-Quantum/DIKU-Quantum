@@ -8,4 +8,7 @@ permalink: /vacancies
 
 # Useful links
 
-And other stuff
+- [QMATH](https://qmath.ku.dk/)
+- [Theoretical Quantum Optics at NBI](https://nbi.ku.dk/english/research/quantum-optics-and-photonics/theoretical-quantum-optics/)
+- [NQCP](https://nqcp.ku.dk/)
+- [Kvantify](https://www.kvantify.com/)
