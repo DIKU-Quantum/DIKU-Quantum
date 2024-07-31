@@ -8,6 +8,8 @@ permalink: /
 
 **News: Our group will move to the University of Copenhagen** 
 
+This is latin for gibberish. 
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci porta non pulvinar neque laoreet. Lacus sed turpis tincidunt id. Ac auctor augue mauris augue neque gravida in. Malesuada proin libero nunc consequat interdum varius. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Fermentum iaculis eu non diam phasellus. Vitae turpis massa sed elementum tempus egestas. Nec sagittis aliquam malesuada bibendum arcu. Nisl condimentum id venenatis a condimentum vitae sapien. Volutpat est velit egestas dui id. Varius duis at consectetur lorem donec massa sapien faucibus. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Consectetur purus ut faucibus pulvinar. Suspendisse ultrices gravida dictum fusce ut placerat. Dictum at tempor commodo ullamcorper. Imperdiet dui accumsan sit amet. Sit amet cursus sit amet dictum sit amet.
 
 Tristique magna sit amet purus gravida quis blandit. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Interdum velit euismod in pellentesque. Integer feugiat scelerisque varius morbi. Porttitor rhoncus dolor purus non enim praesent. Quis hendrerit dolor magna eget est lorem ipsum dolor. Sed tempus urna et pharetra pharetra. In dictum non consectetur a erat nam at lectus urna. Cras tincidunt lobortis feugiat vivamus. Convallis a cras semper auctor neque.
