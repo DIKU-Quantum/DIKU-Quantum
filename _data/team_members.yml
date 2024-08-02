@@ -45,12 +45,11 @@
   education2: 
 
 - name: Lucas Silva Arenstein
-  photo: bio-photo.jpg
+  photo: lucas_photo.jpeg
   info: PhD Student
   email: lsa@di.ku.dk
-  number_educ: 2
-  education1: 
-  education2: 
+  number_educ: 1
+  education1: MSc in Computer Science, University of São Paulo
 
 - name: Martin Mikkelsen
   photo: MartinMikkelsen.jpeg
