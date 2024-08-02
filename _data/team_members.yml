@@ -28,13 +28,15 @@
   education1: MSc in Physics, University of Copenhagen
 
 - name: Lasse Bjørn Kristensen
-  photo: bio-photo.jpg
+  photo: Lasse.png
   info: Postdoc
   email: lakr@di.ku.dk
-  number_educ: 2
-  education1: 
-  education2: 
-  education3: 
+  number_educ: 4
+  education1: Postdoc, Computer Science, University of Copenhagen
+  education2: Postdoc, Chemistry and Computer Science, University of Toronto
+  education3: PhD in Physics, Aarhus University
+  education4: MSc in Physics, Aarhus University
+
 
 - name: Andreas Nicolai Bock Michelsen
   photo: bio-photo.jpg
