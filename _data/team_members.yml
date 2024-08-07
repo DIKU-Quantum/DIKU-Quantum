@@ -11,6 +11,16 @@
   education7: PhD in Physics,  University of Copenhagen
   education8: MSc in Physics, Yale University
 
+- name: Lasse Bjørn Kristensen
+  photo: Lasse.png
+  info: Postdoc
+  email: lakr@di.ku.dk
+  number_educ: 4
+  education1: Postdoc, Computer Science, University of Copenhagen
+  education2: Postdoc, Chemistry and Computer Science, University of Toronto
+  education3: PhD in Physics, Aarhus University
+  education4: MSc in Physics, Aarhus University
+
 - name: Sebastian Bugge Loeschcke
   photo: SebastianLoeschcke.jpg
   info: PhD Student, [personal page](https://sebulo.github.io/)
@@ -25,16 +35,6 @@
   email: jonas.vinther@di.ku.dk
   number_educ: 1
   education1: MSc in Physics, University of Copenhagen
-
-- name: Lasse Bjørn Kristensen
-  photo: Lasse.png
-  info: Postdoc
-  email: lakr@di.ku.dk
-  number_educ: 4
-  education1: Postdoc, Computer Science, University of Copenhagen
-  education2: Postdoc, Chemistry and Computer Science, University of Toronto
-  education3: PhD in Physics, Aarhus University
-  education4: MSc in Physics, Aarhus University
 
 
 - name: Andreas Nicolai Bock Michelsen
