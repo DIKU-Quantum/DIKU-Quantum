@@ -10,7 +10,7 @@ title: DIKU Quantum
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Quantum-inspired tensor network algorithms.
-baseurl: "/DIKU-Quantum"
+baseurl: ""
 url: "https://diku-quantum.github.io"
 
 include:
