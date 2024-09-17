@@ -38,12 +38,14 @@
 
 
 - name: Andreas Nicolai Bock Michelsen
-  photo: bio-photo.jpg
-  info: Industrial Postdoc
+  photo: Andreas.png
+  info: Industrial Postdoc, [personal page](abmichelsen.com)
   email: andreas@abmichelsen.com
-  number_educ: 2
-  education1: 
-  education2: 
+  number_educ: 4
+  education1: Quantum Engineer at Kvantify
+  education2: Postdoc, IT University of Copenhagen
+  education3: Postdoc, Aarhus University
+  education4: PhD in physics, University of St Andrews & University of Luxembourg
 
 - name: Lucas Silva Arenstein
   photo: lucas_photo.jpeg
